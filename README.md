@@ -10,7 +10,7 @@ A lightweight implementation of an `std::optional`-like type in C++, built to be
 ## Example
 
 ```cpp
-op::optional<int> x;
+opt::optional<int> x;
 if (!x) x = 5;
 std::cout << x.value();
 ```
