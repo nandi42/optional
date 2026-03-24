@@ -1,5 +1,5 @@
-#ifndef OPT_H
-#define OPT_H
+#ifndef OPTIONAL_H
+#define OPTIONAL_H
 
 #include <type_traits>
 #include <stdexcept>
@@ -129,4 +129,4 @@ public:
 
 }
 
-#endif // OPT_H
+#endif // OPTIONAL_H
